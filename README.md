@@ -1,2 +1,2 @@
 # Holstee-Manifesto
-HTML and CSS 
+HTML and CSS project
